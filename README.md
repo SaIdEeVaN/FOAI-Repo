@@ -2,7 +2,7 @@
 
 Project documents for **CS23533 – Foundations of Artificial Intelligence** (III Year / V Semester, 2026–2027 Odd Semester), Department of Computer Science and Engineering (Cyber Security), Rajalakshmi Engineering College, Chennai.
 
-This repository holds the project report and the review presentations. The engine's source code lives in a separate repository (see [Links](#links)).
+This repository holds the project report, the conference paper and the review presentations. The engine's source code lives in a separate repository (see [Links](#links)).
 
 ## About the project
 
@@ -30,6 +30,7 @@ A classical AI chess engine built from first principles, with no machine learnin
 | File | Description |
 | --- | --- |
 | [`FOAI - Project Report (16, 57).docx`](<FOAI - Project Report (16, 57).docx>) | Full project report covering design, threat model, experiments and results |
+| [`FOAI - Conference Journal (16, 57).pdf`](<FOAI - Conference Journal (16, 57).pdf>) | Six-page conference paper: *A Transparent, Verified and Benchmarked Classical Search Engine* |
 | [`FOAI - 0th Review (16, 57).pptx`](<FOAI - 0th Review (16, 57).pptx>) | Zeroth review presentation (31.07.2026) |
 | [`FOAI - 1st Review (16, 57).pptx`](<FOAI - 1st Review (16, 57).pptx>) | First review presentation (25.09.2026) |
 | [`FOAI - 2nd Review (16, 57).pptx`](<FOAI - 2nd Review (16, 57).pptx>) | Second review presentation |
