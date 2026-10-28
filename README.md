@@ -30,6 +30,7 @@ A classical AI chess engine built from first principles, with no machine learnin
 | File | Description |
 | --- | --- |
 | [`FOAI - Project Report (16, 57).docx`](<FOAI - Project Report (16, 57).docx>) | Full project report covering design, threat model, experiments and results |
+| [`FOAI - Project Report (16, 57).pdf`](<FOAI - Project Report (16, 57).pdf>) | PDF version of the project report |
 | [`FOAI - Conference Journal (16, 57).pdf`](<FOAI - Conference Journal (16, 57).pdf>) | Six-page conference paper: *A Transparent, Verified and Benchmarked Classical Search Engine* |
 | [`FOAI - 0th Review (16, 57).pptx`](<FOAI - 0th Review (16, 57).pptx>) | Zeroth review presentation (31.07.2026) |
 | [`FOAI - 1st Review (16, 57).pptx`](<FOAI - 1st Review (16, 57).pptx>) | First review presentation (25.09.2026) |
